@@ -8,7 +8,7 @@
 # value is entered and displays the current maximum
 #
 # Compile and run (Linux)
-#   gcc -no-pie print_max.s && ./a.out
+#   gcc -no-pie print_sum.s && ./a.out
 
 
 .text
