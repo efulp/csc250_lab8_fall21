@@ -1,5 +1,5 @@
 # @author Your Name Here {@literal pluf@wfu.edu}
-# @date Nov. 12, 2021
+# @date Nov. 12, 2022
 # @assignment Lab 8
 # @file print_sum.s
 # @course CSC 250
